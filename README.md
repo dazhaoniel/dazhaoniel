@@ -15,5 +15,5 @@ I'm Daniel and I work at Square as a Software Engineer. Previously I worked at W
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
  -->
-⚡ Fun fact: I speak English, Chinese, Japanese, Spanish and Arabic. 
+⚡ Fun fact: I've completed an Ironman and I speak English, Chinese, Japanese, Spanish and Arabic. 
 
