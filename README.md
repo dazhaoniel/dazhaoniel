@@ -2,8 +2,8 @@
 
 <!--
 **dazhaoniel/dazhaoniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
+I'm Daniel and I work at Square as a Software Engineer. Previously I worked at Weebly (acquired by Square) doing backend development, and prior to my startup life, I developed and maintained news alerts and APIs for The Wall Street Journal. On weekends, I like working out, volunteering, running, movies, eating out and coding personal projects. Before New York City, I lived in Upstate New York and Japan. I was born and raised in China.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
