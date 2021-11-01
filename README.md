@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-**dazhaoniel/dazhaoniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **dazhaoniel/dazhaoniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- I'm Daniel and I work at Square as a Software Engineer. Previously I worked at Weebly (acquired by Square) doing backend development, and prior to my startup life, I developed and maintained news alerts and APIs for The Wall Street Journal.
  -->
